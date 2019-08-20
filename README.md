@@ -1,14 +1,16 @@
 # SIENDO-TUS-OJOS
 
 <b>INTEGRANTES:</b><br>     VERÓNICA LUCENA (2152903)  
-                            KARINA SEQUEDA (2152476)  
+                            KARINA SEQUEDA (2152476) 
+                            
+<b>OBJETIVO:</b> Brindar una herramienta de apoyo a aquellas personas con discapacidad visual.                            
                             
 <b>MOTIVACIÓN:</b> Algunos de los estudiantes que integran la comunidad UIS cuentan con discapacidad visual, muchos de ellos no poseen herramientas útiles para consultar la información que requieren, pues no todos los libros se encuetran en sistema braile. Es por esto que se decidió plantear una propuesta de solución, creando un mecanismo que les permite escuchar el texto que necesitan, a través de una fotografía.
 
 <b>DESCRIPCIÓN GENERAL:</b> El proyecto busca implementar los conocimientos adquiridos en la asignatura respecto a
 Deep-Learning. Se incorporan también transformaciones morfológicas tales como cierre, apertura, dilitación y erosión, que permiten localizar los objetos de interés en una imagen para luego proceder a segmentarlos, logrando así un buen reconocimiento de caracteres, a partir del ingreso de una imagen(Fotografía) con texto, haciendo lectura de este a través de un reproductor de voz.
 
-<b>DATASET:</b> AbecedarioUIS--> Datos, Labels.
+<b>DATASET:</b> El dataset utilizado es un dataset propio, creado con la colaboración de algunos estudiantes de Ingeniería de Sistemas, a quienes se les pidió que escribieran en unas hojas el Abecedario tanto en mayúscula como minúscula. El archivo llamado "Datos" y el archivo llamado "Labels" corresponden a las imágenes y etiquetas del dataset.
 
  <b>METODOLOGÍA Y DESCRIPCIÓN DE DATOS CAPTURADOS:</b> En el proyecto se empleará una base de datos propia, creada con la colaboración de un grupo de estudiantes de ingeniería de Sistemas, a quienes se les pidió escribir el alfabeto (excluyendo la ñ) en mayúscula y minúscula. El dataset cuenta con 832 imágenes etiquetadas, de las cuales se emplea el 80% para entrenamiento y el 20% para test.
  
