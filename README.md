@@ -3,9 +3,9 @@
 <b>INTEGRANTES:</b><br>     VERÓNICA LUCENA (2152903)  
                             KARINA SEQUEDA (2152476) 
                             
-<b>OBJETIVO:</b> Brindar una herramienta de apoyo a aquellas personas con discapacidad visual.                            
+<b>OBJETIVO:</b> Brindar una herramienta de apoyo a aquellas personas con discapacidad visual mediante el reconocimiento de caracteres traducidos a señales auditivas.                            
                             
-<b>MOTIVACIÓN:</b> Algunos de los estudiantes que integran la comunidad UIS cuentan con discapacidad visual, muchos de ellos no poseen herramientas útiles para consultar la información que requieren, pues no todos los libros se encuetran en sistema braile. Es por esto que se decidió plantear una propuesta de solución, creando un mecanismo que les permite escuchar el texto que necesitan, a través de una fotografía.
+<b>MOTIVACIÓN:</b> Algunos de los estudiantes que integran la comunidad UIS cuentan con discapacidad visual, muchos de ellos no poseen herramientas útiles para consultar la información que requieren, pues no todos los libros se encuetran en sistema braille. Es por esto que se decidió plantear una propuesta de solución, creando un mecanismo que les permite escuchar el texto que necesitan, a través de una fotografía.
 
 <b>DESCRIPCIÓN GENERAL:</b> El proyecto busca implementar los conocimientos adquiridos en la asignatura respecto a
 Deep-Learning. Se incorporan también transformaciones morfológicas tales como cierre, apertura, dilitación y erosión, que permiten localizar los objetos de interés en una imagen para luego proceder a segmentarlos, logrando así un buen reconocimiento de caracteres, a partir del ingreso de una imagen(Fotografía) con texto, haciendo lectura de este a través de un reproductor de voz.
