@@ -7,8 +7,8 @@
                             
 <b>MOTIVACIÓN:</b> Algunos de los estudiantes que integran la comunidad UIS cuentan con discapacidad visual, muchos de ellos no poseen herramientas útiles para consultar la información que requieren, pues no todos los libros se encuetran en sistema braille. Es por esto que se decidió plantear una propuesta de solución, creando un mecanismo que les permite escuchar el texto que necesitan, a través de una fotografía.
 
-<b>MODELO:</b> El proyecto busca implementar los conocimientos adquiridos en la asignatura respecto a
-Deep-Learning. Se incorporan también transformaciones morfológicas tales como cierre, apertura, dilitación y erosión, que permiten localizar los objetos de interés en una imagen para luego proceder a segmentarlos, logrando así un buen reconocimiento de caracteres, a partir del ingreso de una imagen(Fotografía) con texto, haciendo lectura de este a través de un reproductor de voz.
+<b>MODELO:</b> El proyecto busca plasmar los conocimientos adquiridos en la asignatura respecto a
+Deep-Learning implementando redes convolucionales como Lenet5, que es muy útil para clasificar manuscritos, esta red se usa para entrenar y probar datasets como EMNIST, además de una CNN adicional con la cual se obtuvo buena precisión. Se incorporan también transformaciones morfológicas tales como cierre, apertura, dilitación y erosión, que permiten localizar los objetos de interés en una imagen para luego proceder a segmentarlos, logrando así un buen reconocimiento de caracteres, a partir del ingreso de una imagen(Fotografía) con texto, haciendo lectura de este a través de un reproductor de voz.
 
 <b>DATASET:</b> El dataset utilizado es un dataset propio, creado con la colaboración de algunos estudiantes de Ingeniería de Sistemas, a quienes se les pidió que escribieran en unas hojas el Abecedario (excluyendo la ñ) tanto en mayúscula como minúscula. Cuenta con 832 imágenes etiquetada, los archivos "Datos" y "Labels" corresponden a las imágenes y etiquetas del dataset.
 
